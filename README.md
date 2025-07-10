@@ -1,3 +1,4 @@
+### 2025.7.10更新说明：反代IP上游已不可用，目前仅支持官方IP模式
 
 ### 相关教程请查看[甬哥博客与视频教程](https://ygkkk.blogspot.com/2023/09/openwrt-cdnip.html)
 
